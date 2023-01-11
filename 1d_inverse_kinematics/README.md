@@ -1,4 +1,4 @@
-#1d_inverse_kinematics
+# 1d_inverse_kinematics
 
 ### Requirements
 - [qpsolvers](https://github.com/stephane-caron/qpsolvers)
