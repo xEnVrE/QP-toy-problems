@@ -138,3 +138,10 @@ The expected outcome is:
 <img src="https://github.com/xEnVrE/QP-toy-problems/blob/master/constrained_kf/assets/example.png" width=1000></img>
 
 The above plot shows the outcome of the filtering in terms of particle trajectory and estimation error when the constraint is enabled (central plot) or not (leftmost plot).
+
+## References
+
+[State estimation for linear and non-linear equality-constrained systems (Sec 7.4)](https://www.tandfonline.com/doi/epdf/10.1080/00207170802370033)
+
+[Conversion from least squares to quadratic programming](https://scaron.info/blog/conversion-from-least-squares-to-quadratic-programming.html)
+
