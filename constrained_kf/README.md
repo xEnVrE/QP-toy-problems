@@ -136,3 +136,5 @@ python constrained_kf/circular_tracking.py
 The expected outcome is:
 
 <img src="https://github.com/xEnVrE/QP-toy-problems/blob/master/constrained_kf/assets/example.png" width=1000></img>
+
+The above plot shows the outcome of the filtering in terms of particle trajectory and estimation error when the constraint is enabled (central plot) or not (leftmost plot).
