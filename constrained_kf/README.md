@@ -1,4 +1,4 @@
-# constrained_kf
+# Constrained Kalman filtering
 
 ## Requirements
 - [qpsolvers](https://github.com/stephane-caron/qpsolvers)
