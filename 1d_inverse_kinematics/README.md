@@ -1,4 +1,4 @@
-# 1d_inverse_kinematics
+# 1-R Robot Inverse Kinematics
 
 ## Requirements
 - [qpsolvers](https://github.com/stephane-caron/qpsolvers)
