@@ -1,15 +1,15 @@
 # 1d_inverse_kinematics
 
-### Requirements
+## Requirements
 - [qpsolvers](https://github.com/stephane-caron/qpsolvers)
 - `matplotlib`
 - `numpy`
 
-### Theory
+## Theory
 
 Standard inverse kinematics for a 1-R robot solved via QP with joint and joint velocity limits.
 
-### Run as
+## Run as
 
 ```console
 python 1d_inverse_kinematics/oned_ik.py
