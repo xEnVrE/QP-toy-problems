@@ -5,6 +5,9 @@
 - `matplotlib`
 - `numpy`
 
+### Theory
+
+Standard inverse kinematics for a 1-R robot solved via QP with joint and joint velocity limits.
 
 ### Run as
 
