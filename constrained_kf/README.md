@@ -77,7 +77,7 @@ $$
 \begin{array}{ll}
 s_{k} = 
 \underset{s}{\mbox{min}}
-    & (s_{k} - s_{k}^{-})^T (P_{k}^{-})^{-1} (s_{k} - s_{k}^{-}) + (z - Hs)^{T} R^{-1} (z - Hs) \\
+    & (s - s_{k}^{-})^T (P_{k}^{-})^{-1} (s - s_{k}^{-}) + (z - Hs)^{T} R^{-1} (z - Hs) \\
 \mbox{subject to}
     & g(s) = x^{2} + y^{2} - r^{2} = 0 \\
 \end{array}
